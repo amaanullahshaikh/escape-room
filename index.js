@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         { title: 'Card Match', imageUrl: 'card.jpg', link: 'card.html' },
         { title: 'MAZE', imageUrl: 'maze.jpg', link: 'maze.html' },
         { title: 'Sliding Numbers', imageUrl: 'slid.jpg', link: 'slide.html' },
-        { title: 'GuessTthe Word', imageUrl: 'guess.jpg', link: 'index.html' },
+        { title: 'GuessTthe Word', imageUrl: 'guess.jpg', link: 'guess.html' },
         // Add more game data as needed
     ];
 
